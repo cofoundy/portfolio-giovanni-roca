@@ -1,19 +1,21 @@
 export const siteConfig = {
   name: "José Giovanni Roca Uribe",
-  title: "Consultor de Productos Financieros | Inclusión Financiera | Gestión Comercial",
-  description: "Portfolio profesional de José Giovanni Roca Uribe — Consultor internacional en productos financieros sostenibles, inclusión financiera y gestión comercial con +20 años de experiencia en banca y cooperación internacional.",
+  title: "Consultor de Productos Financieros | Inclusión Financiera | Gestión Social y Comunitaria | Sostenibilidad",
+  description: "Portfolio profesional de José Giovanni Roca Uribe — Consultor internacional en productos financieros sostenibles, inclusión financiera, gestión comercial, gestión social y comunitaria, y sostenibilidad con +20 años de experiencia en banca y cooperación internacional.",
   accentColor: "#1e3a5f",
   social: {
     email: "giovanni_roca_uribe@hotmail.com",
     linkedin: "https://linkedin.com/in/josé-giovanni-roca-uribe",
   },
   aboutMe:
-    "Profesional con más de 20 años de experiencia en gestión comercial, productos financieros y consultoría internacional. Especializado en el diseño de soluciones financieras sostenibles para el sector agrícola y cooperativo en Latinoamérica. He liderado programas de inclusión financiera que beneficiaron a más de 240,000 personas, capacitado a +400 ejecutivos de crédito y asesorado a 7 instituciones financieras cooperativas en 5 países. Mi enfoque combina planificación estratégica, finanzas verdes y desarrollo de equipos de alto rendimiento para generar impacto social y comercial medible.",
+    "Profesional con más de 20 años de experiencia en gestión comercial, productos financieros, gestión social y comunitaria, sostenibilidad y consultoría internacional. Especializado en el diseño de soluciones financieras sostenibles para el sector agrícola y cooperativo en Latinoamérica. He liderado programas de inclusión financiera que beneficiaron a más de 240,000 personas, capacitado a +400 ejecutivos de crédito y asesorado a 7 instituciones financieras cooperativas en 5 países. Mi enfoque combina planificación estratégica, finanzas verdes y desarrollo de equipos de alto rendimiento para generar impacto social y comercial medible.",
   skills: [
     "Productos Financieros Sostenibles",
     "Inclusión Financiera",
     "Green Finance",
     "Gestión Comercial",
+    "Gestión Social y Comunitaria",
+    "Sostenibilidad",
     "Crédito Agrícola",
     "Dirección de Proyectos",
     "KPIs y Mejora Continua",
@@ -22,6 +24,9 @@ export const siteConfig = {
     "Metodologías Ágiles",
     "Liderazgo de Equipos",
     "Planificación Estratégica",
+    "Orientación a Resultados",
+    "Resolución de Problemas",
+    "Pensamiento Crítico",
   ],
   projects: [
     {
@@ -52,6 +57,13 @@ export const siteConfig = {
       link: "",
       skills: ["Mentoría", "Aceleración", "Agronegocios", "Innovación"],
     },
+    {
+      name: "On Boarding, Scoring y Manuales de Operación",
+      description:
+        "Diseño e implementación de procesos de On Boarding para nuevos colaboradores, desarrollo de modelos de Scoring crediticio y elaboración de Manuales de Operación para estandarizar procedimientos en instituciones financieras.",
+      link: "",
+      skills: ["On Boarding", "Scoring", "Manuales de Operación", "Procesos"],
+    },
   ],
   experience: [
     {
@@ -64,6 +76,9 @@ export const siteConfig = {
         "Capacitación de +400 ejecutivos de crédito en evaluación agrícola",
         "Implementación de soluciones digitales para riesgo crediticio",
         "Mentor en programas AGROCONECT y Hackafest 2019",
+        "Identificación y relacionamiento con Stakeholders para efectuar sinergias",
+        "Relacionamiento comunitario, identificación de necesidades y planteamiento de soluciones",
+        "Negociación y resolución de conflictos",
       ],
     },
     {
@@ -134,6 +149,15 @@ export const siteConfig = {
       achievements: [
         "Lima, Perú",
         "Formación bancaria especializada",
+      ],
+    },
+    {
+      school: "Universidad de Lima",
+      degree: "Tácticas de Negociación y Resolución de Conflictos",
+      dateRange: "2004",
+      achievements: [
+        "Lima, Perú",
+        "Taller especializado en técnicas de negociación y resolución de conflictos",
       ],
     },
   ],
