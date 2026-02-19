@@ -134,6 +134,15 @@ export const siteConfig = {
       ],
     },
     {
+      school: "Universidad de Lima",
+      degree: "Tácticas de Negociación y Resolución de Conflictos",
+      dateRange: "2004",
+      achievements: [
+        "Lima, Perú",
+        "Taller especializado en técnicas de negociación y resolución de conflictos",
+      ],
+    },
+    {
       school: "Universidad de San Martín de Porres",
       degree: "Licenciatura en Ciencias de la Comunicación",
       dateRange: "1997 - 2002",
@@ -149,15 +158,6 @@ export const siteConfig = {
       achievements: [
         "Lima, Perú",
         "Formación bancaria especializada",
-      ],
-    },
-    {
-      school: "Universidad de Lima",
-      degree: "Tácticas de Negociación y Resolución de Conflictos",
-      dateRange: "2004",
-      achievements: [
-        "Lima, Perú",
-        "Taller especializado en técnicas de negociación y resolución de conflictos",
       ],
     },
   ],
